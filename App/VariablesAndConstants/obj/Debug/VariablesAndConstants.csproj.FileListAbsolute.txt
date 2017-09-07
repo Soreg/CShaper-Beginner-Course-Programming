@@ -1,0 +1,7 @@
+E:\C#\Udemy\c# basics for beginners\Beginners\App\VariablesAndConstants\obj\Debug\VariablesAndConstants.csprojResolveAssemblyReference.cache
+E:\C#\Udemy\c# basics for beginners\Beginners\App\VariablesAndConstants\obj\Debug\VariablesAndConstants.csproj.CoreCompileInputs.cache
+E:\C#\Udemy\c# basics for beginners\Beginners\App\VariablesAndConstants\bin\Debug\VariablesAndConstants.exe.config
+E:\C#\Udemy\c# basics for beginners\Beginners\App\VariablesAndConstants\bin\Debug\VariablesAndConstants.exe
+E:\C#\Udemy\c# basics for beginners\Beginners\App\VariablesAndConstants\bin\Debug\VariablesAndConstants.pdb
+E:\C#\Udemy\c# basics for beginners\Beginners\App\VariablesAndConstants\obj\Debug\VariablesAndConstants.exe
+E:\C#\Udemy\c# basics for beginners\Beginners\App\VariablesAndConstants\obj\Debug\VariablesAndConstants.pdb

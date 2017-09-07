@@ -1,0 +1,7 @@
+E:\C#\Udemy\c# basics for beginners\Beginners\App\Classes\bin\Debug\Classes.exe.config
+E:\C#\Udemy\c# basics for beginners\Beginners\App\Classes\bin\Debug\Classes.exe
+E:\C#\Udemy\c# basics for beginners\Beginners\App\Classes\bin\Debug\Classes.pdb
+E:\C#\Udemy\c# basics for beginners\Beginners\App\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+E:\C#\Udemy\c# basics for beginners\Beginners\App\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+E:\C#\Udemy\c# basics for beginners\Beginners\App\Classes\obj\Debug\Classes.exe
+E:\C#\Udemy\c# basics for beginners\Beginners\App\Classes\obj\Debug\Classes.pdb

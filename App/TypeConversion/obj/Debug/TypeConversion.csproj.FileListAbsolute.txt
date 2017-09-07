@@ -1,0 +1,7 @@
+E:\C#\Udemy\c# basics for beginners\Beginners\App\TypeConversion\bin\Debug\TypeConversion.exe.config
+E:\C#\Udemy\c# basics for beginners\Beginners\App\TypeConversion\bin\Debug\TypeConversion.exe
+E:\C#\Udemy\c# basics for beginners\Beginners\App\TypeConversion\bin\Debug\TypeConversion.pdb
+E:\C#\Udemy\c# basics for beginners\Beginners\App\TypeConversion\obj\Debug\TypeConversion.csprojResolveAssemblyReference.cache
+E:\C#\Udemy\c# basics for beginners\Beginners\App\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+E:\C#\Udemy\c# basics for beginners\Beginners\App\TypeConversion\obj\Debug\TypeConversion.exe
+E:\C#\Udemy\c# basics for beginners\Beginners\App\TypeConversion\obj\Debug\TypeConversion.pdb
